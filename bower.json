@@ -1,0 +1,20 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/Pisanuo/day2-p1",
+  "authors": [
+    "pisanu outong <pis_p-pong@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
